@@ -1,0 +1,10 @@
+langchain-huggingface
+langgraph
+langchain-openai
+chainlit
+python-dotenv
+torch
+transformers
+sentence-transformers
+bitsandbytes
+accelerate
