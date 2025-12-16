@@ -1,2 +1,5 @@
 # diploma_fpuna_nlp_ia
+
+## Teaching materials
+
 DIPLOMA IN NATURAL LANGUAGE PROCESSING AND ARTIFICIAL INTELLIGENCE (FPUNA-Py)
